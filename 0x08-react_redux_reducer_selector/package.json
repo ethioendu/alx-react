@@ -1,0 +1,25 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "Alx",
+  "main": "index.js",
+ "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethioendu/alx-react.git"
+  },
+  "author": "Endalsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethioendu/alx-react/issues"
+  },
+  "homepage": "https://github.com/ethioendu/alx-react#readme"
+
+}
